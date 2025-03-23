@@ -1,4 +1,4 @@
-![Screenshot (34)](https://github.com/user-attachments/assets/1b153e1a-ada6-45ba-b872-702e53804ac5)![Screenshot (34)](https://github.com/user-attachments/assets/f8ed92a9-318f-473f-b1fd-63b010f6a1af)
+![Screenshot (34)](https://github.com/user-attachments/assets/1b153e1a-ada6-45ba-b872-702e53804ac5)
 We created a simple HTTP server using Node.js. The server listens on 127.0.0.1:3000 and 
 responds with "Hello Node JS" when accessed. We successfully ran the server using node Server.js 
 and confirmed its functionality in the browser by giving the address 127.0.0.1:3000 in 
